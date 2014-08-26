@@ -1,0 +1,2 @@
+processClover (  {"children":["com/sample/mvc/service/","com/sample/mvc/domain/","com/sample/mvc/command/","com/sample/mvc/controller/"],"name":"Clover database Thu Jun 19 2014 10:06:52 IST","stats":{"AvgMethodComplexity":1.1538461,"Complexity":30,"ErroneousTests":0,"FailingTests":0,"FilteredElements":0,"PassingTests":0,"PcErroneousTests":-1,"PcFailingTests":-1,"PcPassingTests":-1,"TestExecutionTime":0,"Tests":0,"TotalChildren":4,"TotalPercentageCovered":100,"TotalStatements":62,"UncoveredElements":0},"title":"Employee Management System 1.0-SNAPSHOT"}
+ ); 
