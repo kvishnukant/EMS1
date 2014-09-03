@@ -64,6 +64,7 @@
 					<sonar.exclusions>
 						**/test/*
 					</sonar.exclusions>
+					<sonar.host.url>http://172.27.59.40:9000</sonar.host.url>
 				</configuration>
 				<executions>
 					<execution>
