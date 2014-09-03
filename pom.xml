@@ -81,11 +81,11 @@
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-war-plugin</artifactId>
 					<configuration>
-						<WebXml>src\main\webapp\WEB-INF\web.xml</WebXml>
+						<WebXml>src/main/webapp/WEB-INF/web.xml</WebXml>
 						<webResources>
 							<resource>
 								<!-- this is relative to the pom.xml directory -->
-								<directory>src\main\webapp\jsp</directory>
+								<directory>src/main/webapp/jsp</directory>
 								<!-- the list has a default value of ** -->
 								<includes>
 									<include>**/*.jsp</include>
