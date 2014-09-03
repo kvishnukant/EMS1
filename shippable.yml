@@ -1,1 +1,12 @@
 reset_minion: true
+
+# Build Environment
+build_environment: ubuntu1204
+
+# language setting
+language: java
+
+# jdk tag
+jdk: oraclejdk8
+
+mvn install -DskipTests=true
