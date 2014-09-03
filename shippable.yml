@@ -7,7 +7,5 @@ build_environment: ubuntu1204
 language: java
 
 # jdk tag
-jdk: 
- -oraclejdk8
-
-mvn install -DskipTests=true
+jdk:
+ - openjdk7
