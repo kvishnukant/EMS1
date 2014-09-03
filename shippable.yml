@@ -9,5 +9,3 @@ language: java
 # jdk tag
 jdk:
  - openjdk7
-
-mvn clean install
