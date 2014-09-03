@@ -10,4 +10,4 @@ language: java
 jdk:
  - openjdk7
 
-mvn install -DskipTests=true
+mvn clean install
