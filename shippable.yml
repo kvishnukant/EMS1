@@ -9,3 +9,5 @@ language: java
 # jdk tag
 jdk:
  - openjdk7
+
+mvn install -DskipTests=true
