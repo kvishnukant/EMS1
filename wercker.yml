@@ -1,7 +1,4 @@
 box: mies/openjdk7@0.0.3
-# box: wercker/default
-# services:
 build: 
        steps: 
-	# Execute the bundle install step, a step provided by wercker 
-	- bundle-install
+		- bundle-install
