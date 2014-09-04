@@ -49,9 +49,9 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
 				<configuration>
-					<jdk>1.7</jdk>
-					<source>1.7</source>
-					<target>1.7</target>
+					<jdk>1.6</jdk>
+					<source>1.6</source>
+					<target>1.6</target>
 				</configuration>
 			</plugin>
 <!-- sonar host url can not be reached from minion of shippable website. -->
