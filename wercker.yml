@@ -1,1 +1,6 @@
 box: wercker/default
+# services:
+build: 
+       steps: 
+	# Execute the bundle install step, a step provided by wercker 
+	- bundle-install
