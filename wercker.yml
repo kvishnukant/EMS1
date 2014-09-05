@@ -1,7 +1,0 @@
-box: wercker/default
-build:
-  steps:
-    - bundle-install
-    - script:
-        name: echo
-        code: echo 1
