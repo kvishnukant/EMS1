@@ -1,4 +1,4 @@
 test:
   override:
-    - echo "<p>Hello, <a href='/home/ubuntu/EMS1/target/surefire-reports/index.html'>Surefire Report</a></p>" > $CIRCLE_ARTIFACTS/hello.html
+    - echo "<p>Hello, <a href='./target/site/clover/index.html'>Surefire Report</a></p>" > $CIRCLE_ARTIFACTS/hello.html
 
