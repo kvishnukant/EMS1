@@ -1,1 +1,1 @@
-cp '/home/ubuntu/EMS1/target/surefire-reports/index.html' ${CIRCLE_ARTIFACTS}/
+cp /home/ubuntu/EMS1/target/surefire-reports/index.html ${CIRCLE_ARTIFACTS}/
