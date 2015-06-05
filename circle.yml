@@ -1,4 +1,5 @@
 test:
   override:
+    - mkdir ${CIRCLE_ARTIFACTS}/clover
     - cp ./target/site/clover/* ${CIRCLE_ARTIFACTS}/clover/
 
