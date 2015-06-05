@@ -1,4 +1,4 @@
 test:
   override:
-    - cp ./target/site/clover/* $CIRCLE_ARTIFACTS/clover/
+    - cp ./target/site/clover/* ${CIRCLE_ARTIFACTS}/clover/
 
