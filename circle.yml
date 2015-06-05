@@ -1,4 +1,4 @@
 test:
   override:
-    - cp ./target/site/clover/index.html $CIRCLE_ARTIFACTS/
+    - cp ./target/site/clover $CIRCLE_ARTIFACTS/
 
