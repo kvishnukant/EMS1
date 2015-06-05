@@ -1,2 +1,2 @@
-echo "<p>Hello, <a width=80 href='/home/ubuntu/EMS1/target/surefire-reports/index.html'></p>" > $CIRCLE_ARTIFACTS/hello.html
+- echo "<p>Hello, <a width=80 href='/home/ubuntu/EMS1/target/surefire-reports/index.html'></p>" > $CIRCLE_ARTIFACTS/hello.html
 
