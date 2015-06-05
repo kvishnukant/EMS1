@@ -1,4 +1,4 @@
 test:
   override:
-    - echo "<p>Hello, <a href='./target/site/clover/index.html'>Surefire Report</a></p>" > $CIRCLE_ARTIFACTS/hello.html
+    - cp ./target/site/clover/index.html $CIRCLE_ARTIFACTS/
 
